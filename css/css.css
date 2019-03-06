@@ -1,0 +1,15 @@
+li {
+    display: inline;
+    color: blueviolet;
+    font-size: 25px;
+    text-align: center;
+    background-color: #a29797;
+    box-shadow: 0 0 9px 4px black;
+}
+article {
+    text-align: justify;
+}
+footer {
+    text-align: center;
+    background: cornflowerblue;
+}
